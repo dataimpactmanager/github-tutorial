@@ -1,6 +1,7 @@
 # A Basic git Workflow
 
 1. Clone a repository
+   ![clone a repository](cloning.png)
 2. Create a branch
 3. Work on a branch
    1. Change some files
