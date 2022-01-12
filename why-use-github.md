@@ -28,4 +28,4 @@ It can also help new folks, like me, to learn to budget time better.
 There are already several ...
 
 - folks from the broader StriveTogether community who are interested in this kind of collaboration.
-- non-StriveTogether projects that work on related problems, like wrangling data from the [US Census Bureau](@uscensusbureau).
+- non-StriveTogether projects that work on related problems, like wrangling data from the [US Census Bureau](https://github.com/uscensusbureau).
